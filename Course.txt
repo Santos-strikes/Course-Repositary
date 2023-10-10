@@ -6,3 +6,5 @@ Course Details:
 3- Html
 4- CSS
 5- React
+6- Angular
+7- Microservices
