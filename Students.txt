@@ -6,3 +6,5 @@ Student Details:
 3- krisna
 4- pradeep
 5- Ulagunath
+6- jeenath
+7- raghu
